@@ -1,0 +1,11 @@
+.env
+Demo Outputs/
+input/
+JSONs/
+output/
+Gurzafar.JPG
+IMG_3535.JPG
+IMG_3535_output.JPG
+testing.ipynb
+__pycache__
+*.db
